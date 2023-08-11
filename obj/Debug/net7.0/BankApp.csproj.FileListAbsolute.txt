@@ -1,0 +1,15 @@
+C:\Users\Saaketh Gunti\Desktop\BankApp\bin\Debug\net7.0\BankApp.exe
+C:\Users\Saaketh Gunti\Desktop\BankApp\bin\Debug\net7.0\BankApp.deps.json
+C:\Users\Saaketh Gunti\Desktop\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+C:\Users\Saaketh Gunti\Desktop\BankApp\bin\Debug\net7.0\BankApp.dll
+C:\Users\Saaketh Gunti\Desktop\BankApp\bin\Debug\net7.0\BankApp.pdb
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.csproj.AssemblyReference.cache
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.dll
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.pdb
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+C:\Users\Saaketh Gunti\Desktop\BankApp\obj\Debug\net7.0\ref\BankApp.dll
